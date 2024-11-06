@@ -1,0 +1,21 @@
+C:\Users\CHAMA COMPUTERS\Desktop\Ass_system\Calculation\Calculation\bin\Debug\Calculation.exe.config
+C:\Users\CHAMA COMPUTERS\Desktop\Ass_system\Calculation\Calculation\bin\Debug\Calculation.exe
+C:\Users\CHAMA COMPUTERS\Desktop\Ass_system\Calculation\Calculation\bin\Debug\Calculation.pdb
+C:\Users\CHAMA COMPUTERS\Desktop\Ass_system\Calculation\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
+C:\Users\CHAMA COMPUTERS\Desktop\Ass_system\Calculation\Calculation\obj\Debug\Calculation.Form1.resources
+C:\Users\CHAMA COMPUTERS\Desktop\Ass_system\Calculation\Calculation\obj\Debug\Calculation.Properties.Resources.resources
+C:\Users\CHAMA COMPUTERS\Desktop\Ass_system\Calculation\Calculation\obj\Debug\Calculation.csproj.GenerateResource.Cache
+C:\Users\CHAMA COMPUTERS\Desktop\Ass_system\Calculation\Calculation\obj\Debug\Calculation.exe
+C:\Users\CHAMA COMPUTERS\Desktop\Ass_system\Calculation\Calculation\obj\Debug\Calculation.pdb
+C:\Users\CHAMA COMPUTERS\Desktop\Adhithya\Projects\Calculator\Calculation\bin\Debug\Calculation.exe.config
+C:\Users\CHAMA COMPUTERS\Desktop\Adhithya\Projects\Calculator\Calculation\obj\Debug\Calculation.exe
+C:\Users\CHAMA COMPUTERS\Desktop\Adhithya\Projects\Calculator\Calculation\obj\Debug\Calculation.pdb
+C:\Users\CHAMA COMPUTERS\Desktop\Adhithya\Projects\1. Calculator\Calculation\bin\Debug\Calculation.exe.config
+C:\Users\CHAMA COMPUTERS\Desktop\Adhithya\Projects\1. Calculator\Calculation\obj\Debug\Calculation.exe
+C:\Users\CHAMA COMPUTERS\Desktop\Adhithya\Projects\1. Calculator\Calculation\obj\Debug\Calculation.pdb
+C:\Users\CHAMA COMPUTERS\Desktop\Adhithya\Projects\1. Calculator\Calculation\bin\Debug\Calculation.exe
+C:\Users\CHAMA COMPUTERS\Desktop\Adhithya\Projects\1. Calculator\Calculation\bin\Debug\Calculation.pdb
+C:\Users\CHAMA COMPUTERS\Desktop\Adhithya\Projects\1. Calculator\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
+C:\Users\CHAMA COMPUTERS\Desktop\Adhithya\Projects\1. Calculator\Calculation\obj\Debug\Calculation.Form1.resources
+C:\Users\CHAMA COMPUTERS\Desktop\Adhithya\Projects\1. Calculator\Calculation\obj\Debug\Calculation.Properties.Resources.resources
+C:\Users\CHAMA COMPUTERS\Desktop\Adhithya\Projects\1. Calculator\Calculation\obj\Debug\Calculation.csproj.GenerateResource.Cache
